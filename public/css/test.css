@@ -1,0 +1,18 @@
+.bg-gradient-primary {
+    background: #62418b;
+}
+
+p.task_code {
+    padding:20px;
+    background: #d6d6d6;
+    color: #3e2955;
+}
+
+
+#output {
+    padding:20px;
+    background: #d6d6d6;
+    border: #3e2955 1px dashed;
+    color: #3e2955;
+
+}
